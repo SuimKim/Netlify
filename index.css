@@ -16,6 +16,9 @@ header{
     padding-left: 10%;
     top: 0;
 }
+span{
+    font-weight: bold;
+}
 .maintitle{
     display: inline-block;
     position: relative;
@@ -37,7 +40,7 @@ nav{
 ul li{
     list-style-type: none;
     display: inline;
-    margin: 40px;
+    margin: 50px;
 }
 ul li a{
     text-decoration: none;
@@ -50,6 +53,17 @@ main{
     margin-top: 100px;
     width: 80%;
     display: inline-block;
+}
+.teambox{
+    margin-left: 20px;
+}
+#menu2 ul{
+    padding-left: 0;
+    margin-bottom: 50px;
+}
+#menu2 ul li{
+    display: block;
+    margin: 5px;
 }
 .tabcont{
     background-color: #e9f4e8b3;
