@@ -82,3 +82,26 @@ ul.tab li.on{
 .tabcont.on {
     display: block;
 }
+.image img{
+    width: 90%;
+    height: auto;
+    opacity: 0.4;
+}
+
+.imgboard{
+    margin-bottom: 10px;
+}
+#panel1,#panel2,#panel3,#panel4,
+#panel5,#panel6,#panel7,#panel8,
+#flip1,#flip2,#flip3,#flip4,
+#flip5,#flip6,#flip7,#flip8 {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+  }
+  
+#panel1,#panel2,#panel3,#panel4,
+#panel5,#panel6,#panel7,#panel8{
+    padding: 50px;
+    display: none;
+  }
