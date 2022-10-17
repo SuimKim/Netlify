@@ -15,6 +15,8 @@
 ## 프로젝트 소개
 
 <p align="justify">
+
+  [사이트 바로가기](https://main--thunderous-cannoli-f89dc0.netlify.app/)<br>
   제가 가고 싶은 회사인 NAVER의 소개 페이지를 제작해보았습니다. 네이버 기업의 간단한 소개와 직군 소개, 회사 내 사진 등으로 꾸며보았습니다.<br>
   <br>
 
